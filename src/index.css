@@ -1,0 +1,51 @@
+
+
+#root{
+    padding: 0px;
+}
+
+
+/* NAVIGATE COMPONENT*/
+.header {
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.size-text-nav {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.hover-nav:hover  {
+    color: #ff3318 !important;
+    transition: 0.5s;
+}
+
+/*CAROUSEL*/
+
+.not-arrow .carousel-control-prev,
+.not-arrow .carousel-control-next {
+  display: none;
+}
+
+.text-title-main {
+    font-size: 50px;
+    font-weight: bold;
+    color: #ff1818;
+}
+
+
+/* FOOTER*/
+a {
+    text-decoration: none;
+}
+
+.unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.reset-anchor {
+    color: inherit;
+    transition: all 0.3s;
+}
