@@ -15,29 +15,35 @@ export function MainHome() {
                             </div>
                             <div className="row gy-3">
                                 <div className="col-lg-4">
-                                <svg></svg>
-                                <h5>algun contenido</h5>
-                                <p>Breve descripcion</p></div>
+                                    <svg></svg>
+                                    <h5>algun contenido</h5>
+                                    <p>Breve descripcion</p>
+                                </div>
                                 <div className="col-lg-4">
-                                <svg></svg>
-                                <h5>algun contenido</h5>
-                                <p>Breve descripcion</p></div>
+                                    <svg></svg>
+                                    <h5>algun contenido</h5>
+                                    <p>Breve descripcion</p>
+                                </div>
                                 <div className="col-lg-4">
-                                <svg></svg>
-                                <h5>algun contenido</h5>
-                                <p>Breve descripcion</p></div>
+                                    <svg></svg>
+                                    <h5>algun contenido</h5>
+                                    <p>Breve descripcion</p>
+                                </div>
                                 <div className="col-lg-4">
-                                <svg></svg>
-                                <h5>algun contenido</h5>
-                                <p>Breve descripcion</p></div>
+                                    <svg></svg>
+                                    <h5>algun contenido</h5>
+                                    <p>Breve descripcion</p>
+                                </div>
                                 <div className="col-lg-4">
-                                <svg></svg>
-                                <h5>algun contenido</h5>
-                                <p>Breve descripcion</p></div>
+                                    <svg></svg>
+                                    <h5>algun contenido</h5>
+                                    <p>Breve descripcion</p>
+                                </div>
                                 <div className="col-lg-4">
-                                <svg></svg>
-                                <h5>algun contenido</h5>
-                                <p>Breve descripcion</p></div>
+                                    <svg></svg>
+                                    <h5>algun contenido</h5>
+                                    <p>Breve descripcion</p>
+                                </div>
                             </div>
                         </div>
                     </div>
