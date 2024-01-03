@@ -12,7 +12,7 @@ export function MyNavbar() {
   }
 
     return (
-      <header>
+      <header className="mx-0">
         <Navbar expand="lg" className="bg-body-tertiary p-3 header" >
           <Container>
             <Navbar.Brand onClick={() => handleBrandClick("/")}>Logo empresa</Navbar.Brand>
