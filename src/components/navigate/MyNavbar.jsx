@@ -12,8 +12,8 @@ export function MyNavbar() {
   }
 
     return (
-      <header className="mx-0">
-        <Navbar expand="lg" className="bg-body-tertiary p-3 header" >
+      <header className="expand-header">
+        <Navbar expand="lg" className="bg-body-tertiary p-3 header " >
           <Container>
             <Navbar.Brand onClick={() => handleBrandClick("/")}>Logo empresa</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" className="" />

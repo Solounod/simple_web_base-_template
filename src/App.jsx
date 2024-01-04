@@ -10,6 +10,7 @@ import { ServicePage } from './containers/pages/ServicePage'
 function App() {
   
   return (
+    
    <BrowserRouter>
     <Routes>
       <Route path="/" element={<MainPage/>} />
@@ -19,6 +20,7 @@ function App() {
       <Route path="*" element={<h1>Page not found</h1>} />
     </Routes>
    </BrowserRouter>
+   
   )
 }
 
