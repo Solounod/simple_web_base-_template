@@ -79,3 +79,36 @@ a {
     opacity: 0.2;
     border-radius: 16%;
 }
+
+/*===========================================*/
+/*  *************** SERVICES ***************  */
+/*===========================================*/
+
+.numeric-block {
+    position: relative;
+}
+
+.numeric-block-count {
+    position: absolute;
+    color: #DD0918;
+    top: -1rem;
+    left: 0;
+    font-size: 6rem;
+    font-weight: 700;
+    opacity: 0.2;
+    z-index: -1;
+    line-height: 1;
+}
+
+.img-services{
+    width: 373px;
+    height: 433px;
+    object-fit: cover;
+}
+
+.img-other{
+    width: 353px;
+    height: 249px;
+    object-fit: cover;
+}
+
